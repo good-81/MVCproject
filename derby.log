@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Feb 24 09:27:58 MSK 2018:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): экземпляр a816c00e-0161-c67f-2a55-000005ee0fb0
+в каталоге базы данных E:\Intellij_idea_projects\MVCproject\entities.db sun.misc.Launcher$AppClassLoader@18b4aac2 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=E:\Intellij_idea_projects\MVCproject
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 24 09:28:49 MSK 2018:
+Завершается работа экземпляра a816c00e-0161-c67f-2a55-000005ee0fb0
