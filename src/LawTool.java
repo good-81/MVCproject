@@ -29,6 +29,8 @@ public class LawTool extends Application {
         primaryStage.show();
     }
 
+
+    
     public static void main(String[] args) throws Exception {
         launch(args);
 //        Model.CompanyDao entityDao = new Model.DerbyCompanyDao();
