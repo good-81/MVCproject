@@ -13,7 +13,7 @@ import java.util.List;
 
 public class DerbyCompanyDao implements CompanyDao {
 
-    private final static String DB_NAME = "entities.db";
+    private final static String DB_NAME = "entities1.db";
     //    private final static String TABLE_NAME = "entities1";
     private final static String TABLE_NAME = "Company2";
     private Connection connection;

@@ -30,7 +30,7 @@ public class LawTool extends Application {
     }
 
 
-    
+
     public static void main(String[] args) throws Exception {
         launch(args);
 //        Model.CompanyDao entityDao = new Model.DerbyCompanyDao();
