@@ -50,6 +50,7 @@ public class Controller {
         stage.setOnCloseRequest(event -> entityModel.closeDB());
     }
 
+
     public void initialize() {
         choice_box.getItems().setAll(EntitySearchType.values());
         choice_box.getSelectionModel().selectFirst();
